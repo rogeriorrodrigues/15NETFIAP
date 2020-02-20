@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:pages="clr-namespace:XF.Layouts15NET"
+             xmlns:views="clr-namespace:XF.Layouts15NET.Views"
+             mc:Ignorable="d"
+             x:Class="XF.Layouts15NET.Views.TabbedPageXF">
+    <!-- Pages declaradas -->
+    
+    <pages:MainPage Title="Main Page" />
+    
+    
+    <!--Pages can be added as references or inline-->
+    
+    <ContentPage Title="Tab 1" BackgroundColor="Aqua">
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"
+                 Spacing="30" Padding="15">
+            <Label Text="Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindureta. Quem manda na minha terra sou euzis!" 
+              LineBreakMode="WordWrap"
+               FontSize="Small" FontAttributes="Bold"
+               VerticalOptions="Start" TextColor="DarkRed"
+               VerticalTextAlignment="Center" HorizontalOptions="Center" 
+               HorizontalTextAlignment="Center" />
+            <Entry WidthRequest="100" HeightRequest="50" Placeholder="Digite o Seu email" 
+               TextColor="BlueViolet" Keyboard="Email" VerticalOptions="Center"/>
+            <Button WidthRequest="100" HeightRequest="50" Text="Inscrever" 
+                BackgroundColor="Azure" 
+                VerticalOptions="End"
+                TextColor="Black" FontAttributes="Bold"
+                 />
+        </StackLayout>
+    </ContentPage>
+    <views:About Title="About" />
+    <ContentPage Title="Tab 3" />
+</TabbedPage>
