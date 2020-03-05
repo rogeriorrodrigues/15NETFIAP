@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XF.EssentialsFIAP.MainPage">
+
+    <StackLayout Spacing="2">
+        <!-- Place new controls here -->
+        <Label x:Name="lblInfo" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+               FontSize="Large" FontAttributes="Bold" />
+
+        <Label x:Name="lblDevice" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand"
+               FontSize="Large" FontAttributes="Bold"/>
+
+            <Button Text="Ligar" HorizontalOptions="Center"
+           VerticalOptions="Center" WidthRequest="100" 
+                HeightRequest="40"
+                FontSize="Medium" FontAttributes="Bold" TextColor="Black" Clicked="Ligar_Clicked" />
+
+            <Button Text="Desligar" HorizontalOptions="Center"
+           VerticalOptions="Center" WidthRequest="100" 
+                HeightRequest="40"
+                FontSize="Medium" FontAttributes="Bold" TextColor="Black" Clicked="Desligar_Clicked" />
+
+        <Button Text="Open Browser" HorizontalOptions="Center"
+           VerticalOptions="Center" WidthRequest="100" 
+                HeightRequest="40"
+                FontSize="Medium" FontAttributes="Bold" TextColor="Black" Clicked="Button_Clicked" />
+    </StackLayout>
+
+</ContentPage>

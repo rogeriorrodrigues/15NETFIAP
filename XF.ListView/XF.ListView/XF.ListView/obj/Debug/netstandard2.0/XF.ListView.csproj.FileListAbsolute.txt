@@ -1,0 +1,13 @@
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\bin\Debug\netstandard2.0\XF.ListView.deps.json
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\bin\Debug\netstandard2.0\XF.ListView.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\bin\Debug\netstandard2.0\ref\XF.ListView.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\bin\Debug\netstandard2.0\XF.ListView.pdb
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\XF.ListView.csprojAssemblyReference.cache
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\XF.ListView.AssemblyInfoInputs.cache
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\XF.ListView.AssemblyInfo.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\XF.ListView.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\ref\XF.ListView.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListView\XF.ListView\XF.ListView\obj\Debug\netstandard2.0\XF.ListView.pdb

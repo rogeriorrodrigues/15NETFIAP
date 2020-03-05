@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XF.ListView.MainPage">
+
+    <StackLayout>
+        <SearchBar x:Name="searchestados" Placeholder="Pesquise aqui..."
+                   PlaceholderColor="Azure" 
+                   TextChanged="searchestados_TextChanged"/>
+        <ListView x:Name="lstEstados" RowHeight="50" SeparatorColor="Black">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Spacing="1" Orientation="Vertical" VerticalOptions="Center" HeightRequest="70">
+                            <Label Text="{Binding Nome}" FontSize="Medium" FontAttributes="Bold"/>
+                            <Label Text="{Binding Bairro}" FontSize="Medium" FontAttributes="Bold"/>
+                            <Label Text="{Binding Origem}" FontSize="Medium" FontAttributes="Bold"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

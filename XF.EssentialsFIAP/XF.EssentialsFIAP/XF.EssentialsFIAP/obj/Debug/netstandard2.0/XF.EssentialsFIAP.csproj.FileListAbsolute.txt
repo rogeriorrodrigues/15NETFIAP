@@ -1,0 +1,13 @@
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\bin\Debug\netstandard2.0\XF.EssentialsFIAP.deps.json
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\bin\Debug\netstandard2.0\XF.EssentialsFIAP.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\bin\Debug\netstandard2.0\ref\XF.EssentialsFIAP.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\bin\Debug\netstandard2.0\XF.EssentialsFIAP.pdb
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\XF.EssentialsFIAP.csprojAssemblyReference.cache
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\XF.EssentialsFIAP.AssemblyInfoInputs.cache
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\XF.EssentialsFIAP.AssemblyInfo.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\XF.EssentialsFIAP.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\ref\XF.EssentialsFIAP.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\XF.EssentialsFIAP\obj\Debug\netstandard2.0\XF.EssentialsFIAP.pdb
