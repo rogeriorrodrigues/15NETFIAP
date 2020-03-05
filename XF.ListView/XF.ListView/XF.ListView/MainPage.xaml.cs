@@ -17,10 +17,6 @@ namespace XF.ListView
         {
             InitializeComponent();
 
-
-
-
-
             lstEstados.ItemsSource = listaContatinho;
         }
 
@@ -56,9 +52,7 @@ namespace XF.ListView
 
         private void searchestados_TextChanged(object sender, TextChangedEventArgs e)
         {
-
             var texto = searchestados.Text;
-
             lstEstados.ItemsSource = listaContatinho.Where(x => x.Bairro.ToLower().Contains(texto.ToLower()));
 
         }

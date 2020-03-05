@@ -1,0 +1,14 @@
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\bin\Debug\netstandard2.0\XF.ListAPIRestBasic.deps.json
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\bin\Debug\netstandard2.0\XF.ListAPIRestBasic.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\XF.ListAPIRestBasic.csprojAssemblyReference.cache
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\BuscaCEP.xaml.g.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\XF.ListAPIRestBasic.AssemblyInfoInputs.cache
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\XF.ListAPIRestBasic.AssemblyInfo.cs
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\bin\Debug\netstandard2.0\ref\XF.ListAPIRestBasic.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\bin\Debug\netstandard2.0\XF.ListAPIRestBasic.pdb
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\XF.ListAPIRestBasic.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\ref\XF.ListAPIRestBasic.dll
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\XF.ListAPIRestBasic.pdb
+C:\Users\rgrs\Documents\FIAP\15NETFIAP\XF.ListAPIRestBasic\XF.ListAPIRestBasic\XF.ListAPIRestBasic\obj\Debug\netstandard2.0\XamlC.stamp
